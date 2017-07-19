@@ -2,7 +2,7 @@
     {
         "title": "Haematic Chow",
         "author": "Montana Firebrand",
-        "coverUrl": "",
+        "coverUrl": "https://indt-playlists.herokuapp.com/covers/HaematicChow.jpg",
         "followers": "8023",
         "songs": [
             {
@@ -45,7 +45,7 @@
     {
         "title": "Lurid Spitz",
         "author": "Wynn Tombs",
-        "coverUrl": "",
+        "coverUrl": "https://indt-playlists.herokuapp.com/covers/LuridSpitz.jpg",
         "followers": "12143",
         "songs": [
             {
@@ -88,7 +88,7 @@
     {
         "title": "Rhodopsin Golden",
         "author": "Devon Bodyhacker",
-        "coverUrl": "",
+        "coverUrl": "https://indt-playlists.herokuapp.com/covers/RhodopsinGolden.jpg",
         "followers": "1032",
         "songs": [
             {
