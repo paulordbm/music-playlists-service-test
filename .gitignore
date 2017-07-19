@@ -140,3 +140,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/node,macos,linux,grunt,windows,visualstudiocode
+
+# Custom rules (not generated from gitignore.io)
+### Typescript ###
+.tscache/
