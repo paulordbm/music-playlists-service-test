@@ -8,16 +8,20 @@ Follow these steps to clone the code and run the project.
 
 ### Setup
 
-`# Clone the repository and install dependencies`
-`git clone https://gitlab.com/paulo-rdbm/playlists-webservice.git`
-`cd playlists-webservice`
-`npm install`
+```bash
+# Clone the repository and install dependencies
+git clone https://gitlab.com/paulo-rdbm/playlists-webservice.git
+cd playlists-webservice
+npm install
+```
 
 ### Run the code locally (<http://localhost:8080/>)
 
-`# Build the Typescript files`
-`npm run grunt`
-`# Run the code in your localhost`
-`npm run dev`
+```bash
+# Build the Typescript files
+npm run grunt
+# Run the code in your localhost
+npm run dev
+```
 
 Now you can access <http://localhost:8080/> to see the home page, or <http://localhost:8080/api/playlists> to retrieve a JSON with fake data.
