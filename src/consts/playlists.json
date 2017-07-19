@@ -1,0 +1,131 @@
+[
+    {
+        "title": "Haematic Chow",
+        "author": "Montana Firebrand",
+        "coverUrl": "",
+        "followers": "8023",
+        "songs": [
+            {
+                "title": "Perfectionism Has No Answers",
+                "artist": "Lee Galactic",
+                "album": "Manual Vortex",
+                "duration": "00:02:06",
+                "rating": "4.5"
+            },
+            {
+                "title": "Manual Vortex",
+                "artist": "Lee Galactic",
+                "album": "Manual Vortex",
+                "duration": "00:03:23",
+                "rating": "5"
+            },
+            {
+                "title": "Forgotten Bombshell",
+                "artist": "Lee Galactic",
+                "album": "Manual Vortex",
+                "duration": "00:02:42",
+                "rating": "3.89"
+            },
+            {
+                "title": "Lurrrve Vixens",
+                "artist": "Lee Galactic",
+                "album": "Manual Vortex",
+                "duration": "00:03:15",
+                "rating": "4.25"
+            },
+            {
+                "title": "Chasing The Vixen",
+                "artist": "Lee Galactic",
+                "album": "Manual Vortex",
+                "duration": "00:03:06",
+                "rating": "4.9"
+            }
+        ]
+    },
+    {
+        "title": "Lurid Spitz",
+        "author": "Wynn Tombs",
+        "coverUrl": "",
+        "followers": "12143",
+        "songs": [
+            {
+                "title": "Weapons Of Vision",
+                "artist": "Skylar Pestilence",
+                "album": "Eternal Lazer",
+                "duration": "00:01:16",
+                "rating": "3.45"
+            },
+            {
+                "title": "Glittering Vortex",
+                "artist": "Skylar Pestilence",
+                "album": "Eternal Lazer",
+                "duration": "00:02:12",
+                "rating": "4.55"
+            },
+            {
+                "title": "Golden Runaround",
+                "artist": "Skylar Pestilence",
+                "album": "Eternal Lazer",
+                "duration": "00:01:31",
+                "rating": "4.69"
+            },
+            {
+                "title": "I Predict Fear",
+                "artist": "Skylar Pestilence",
+                "album": "Eternal Lazer",
+                "duration": "00:02:04",
+                "rating": "4.22"
+            },
+            {
+                "title": "Chasing The Vixen",
+                "artist": "Skylar Pestilence",
+                "album": "Eternal Lazer",
+                "duration": "00:02:05",
+                "rating": "3.9"
+            }
+        ]
+    },
+    {
+        "title": "Rhodopsin Golden",
+        "author": "Devon Bodyhacker",
+        "coverUrl": "",
+        "followers": "1032",
+        "songs": [
+            {
+                "title": "New York Fight",
+                "artist": "Mackenzie Lifeless",
+                "album": "Random Ride",
+                "duration": "00:02:39",
+                "rating": "4.56"
+            },
+            {
+                "title": "Warmth Will Win",
+                "artist": "Mackenzie Lifeless",
+                "album": "Random Ride",
+                "duration": "00:03:58",
+                "rating": "4.57"
+            },
+            {
+                "title": "Liberty Is Suicide",
+                "artist": "Mackenzie Lifeless",
+                "album": "Random Ride",
+                "duration": "00:02:25",
+                "rating": "4.46"
+            },
+            {
+                "title": "Drowning In Hate",
+                "artist": "Mackenzie Lifeless",
+                "album": "Random Ride",
+                "duration": "00:03:48",
+                "rating": "4.43"
+            },
+            {
+                "title": "Good For Nothing Pimp",
+                "artist": "Mackenzie Lifeless",
+                "album": "Random Ride",
+                "duration": "00:03:39",
+                "rating": "3.87"
+            }
+        ]
+    }
+]
