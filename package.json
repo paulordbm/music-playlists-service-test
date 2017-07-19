@@ -2,12 +2,12 @@
   "name": "playlists",
   "version": "1.0.0",
   "description": "A simple REST API that returns a few playlists a la Spotify",
-  "main": "index.js",
+  "main": "npm run babel-node -- ./bin/www",
   "scripts": {
     "babel-node": "babel-node --presets es2015,stage-2",
     "dev": "NODE_ENV=development nodemon --exec npm run babel-node -- ./bin/www",
     "grunt": "grunt",
-    "start": "babel-node ./bin/www",
+    "start": "npm run babel-node -- ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
